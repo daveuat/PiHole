@@ -39,3 +39,11 @@
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 browser.sentry-cdn.com
+# SOCIAL TRACKERS
+0.0.0.0 widgets.pinterest.com
+# MIX
+0.0.0.0 advertising.yandex.ru
+# OEMs ADS
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 samsung-com.112.2o7.net
