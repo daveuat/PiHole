@@ -21,6 +21,7 @@
 0.0.0.0 events.hotjar.io
 0.0.0.0 mouseflow.com
 0.0.0.0 api.mouseflow.com
+0.0.0.0 tools.mouseflow.com
 0.0.0.0 cdn-test.mouseflow.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 claritybt.freshmarketer.com
@@ -35,3 +36,6 @@
 # ERROR TRACKERS
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
